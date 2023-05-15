@@ -1,0 +1,31 @@
+.MemberConatct{
+    padding-top: 100px;
+    align-items: center;
+}
+.logoutBtn{
+ align-items: end;
+}
+.UserTable{
+    width: 500px !important;
+    padding-left: 10px !important;
+}
+.adminPost{
+    position:relative;
+     
+    flex-direction: column;
+    max-width: 1000px;
+    padding: 15px 10px;
+    box-shadow: 5px 5px 10px 5px rgba(0,0,0,0.18);
+    background: rgba(221, 241, 222, 0.05);
+    border-radius: 10px;
+    
+    background-color: #ffffff;
+    left: 100px;
+    
+}
+.membersnews{
+    padding-top: 100px;
+    align-items: center;
+    width: 800px !important;
+    
+}

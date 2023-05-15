@@ -1,0 +1,31 @@
+.logConten{
+    padding-top: 80px;
+   height: 650px;
+ }
+ 
+ .loginsize{
+     
+     position:absolute;
+     
+     flex-direction: column;
+     max-width: 600px;
+     padding: 15px 10px;
+     box-shadow: 5px 5px 10px 5px rgba(0,0,0,0.18);
+     background: rgba(255,255,255,0.05);
+     border-radius: 10px;
+     
+     background-color: #ffffff;
+     left: 300px;
+     
+  }
+  .loglionImg{
+     background-image: url('../Images/login/Registration.jpg')!important;
+     border-radius: 5%;
+     height: 363px;;
+     width: 266px;
+     
+ }
+  .backgroundcol{
+     margin-top: 0;
+ background:linear-gradient( #c4064f,#6b8ece, #c4064f)!important;
+ }

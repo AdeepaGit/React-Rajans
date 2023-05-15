@@ -1,0 +1,119 @@
+.background{
+    background-color: rgb(235, 238, 65);
+ }
+ .main{
+    font-size: 80px;
+    font-weight: bold;
+    color: #1d1818;
+ }
+.text-footer {
+    text-align: center;
+    padding: 30px 0;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+.background-image{
+    background: url(https://www.brake.org.uk/files/images/Fundraising/_1200x630_crop_center-center_82_none/fundraising-shutterstock_1038484924-2000.jpg?v=1645199796);
+    background-size:cover;
+    background-position: center;
+    padding: 10px;
+    margin: 10px;
+    background-repeat: inherit;
+}
+.headline{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    text-align:left left;
+    padding: 70px;
+    margin: 60px ;
+    font-weight: bold;
+    text-shadow: #4d4848;
+
+
+}
+.next-headline{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    padding:100px;
+    margin: 0px ;
+    font-weight: bold;
+    font-size-adjust: inherit;
+    text-align: justify;
+    text-rendering: optimizeLegibility;
+}
+.image-second{
+    padding: 30px 30px 30px 30px;
+    margin:30px 30px 30px 30px;
+    background-size: cover;
+    border: 40px rgb(2, 2, 2);
+     
+}
+
+.second{
+    font-size:20px;
+    width: 400px;
+    height: 200px;
+    margin: 0px;
+    padding:50px 50px 50px 50px;
+    float: right;
+    text-align: justify;
+    float: inline-start;
+    font-weight: bold;
+}
+.one{
+    font-size:20px;
+    width: 40%;
+    height:40%;
+    margin:5px;
+    padding:100px 50px 20px 50px;
+    float: left;
+    text-align: justify;
+    float: inline-start;
+    font-weight: bold;
+    border: 40px rgb(2, 2, 2);
+    
+
+}
+.image-one{
+    padding: 10px 10px 10px 10px;
+    margin:10px 10px 10px 10px;
+    background-size: cover;
+    float: right;
+    border: 40px rgb(2, 2, 2);
+}
+.third{
+    font-size:20px;
+    width: 40%;
+    height:40%;
+    margin:5px;
+    padding:100px 50px 20px 50px;
+    float: right;
+    text-align: justify;
+    float: inline-start;
+    font-weight: bold;
+    border: 40px rgb(2, 2, 2);
+    
+}
+.footer {
+    width:1150px;
+    height:30px;
+    background-color: #000;
+    text-align: center;
+    padding: 90px 90px 90px 90px;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    }    
+.image-third{
+        padding: 20px 20px 20px 20px;
+        margin:20px 20px 20px 20px;
+        background-size: cover;
+        border: 40px rgb(2, 2, 2);   
+   
+}  
+   
+
+

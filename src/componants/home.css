@@ -1,0 +1,112 @@
+.svg{
+    display: none;
+}
+
+.cards{
+    
+    align-items: center;
+    flex-direction: column ;
+    box-shadow: 5px 5px 10px 5px rgba(0,0,0,0.18);
+    background: rgba(255,255,255,0.05);
+    border-radius: 10px;
+    background-color: #ffffff;
+    
+}
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  .cover {
+    background-image: url('/img/rice.jpg')!important;
+    height:600px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 20px;
+    
+}
+.coverContent{
+    padding-top: 200px;
+}
+
+@media only screen and (max-width: 900px) {
+  .coverContent{
+    padding-top: 100px;
+}
+}
+.coverContent h1{
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+@media only screen and (max-width: 900px) {
+  .coverContent h1{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bolder;
+}
+}
+.homeimage1 {
+  background-image: url('../Images/food.jpg')!important;
+  height:500px;
+  width: 500px ;
+  left: 0px;
+  right: 0px;
+  
+  
+}
+.homeimage2 {
+  background-image: url('../Images/water.jpg')!important;
+  height:500px;
+  width: 500px ;
+  left: 0px;
+  right: 0px;
+  
+  
+}
+.homeimage3 {
+  background-image: url('../Images/eyeglass.jpg')!important;
+  height:500px;
+  width: 500px ;
+  left: 0px;
+  right: 0px;
+  
+  
+}
+.homeimage4 {
+  background-image: url('../Images/study.jpg')!important;
+  height:225px;
+  width: 350px ;
+  left: 0px;
+  right: 0px;
+  
+  
+}
+.homeimage5 {
+  background-image: url('../Images/blood.jpg')!important;
+  height:225px;
+  width: 350px ;
+  left: 0px;
+  right: 0px;
+  
+  
+}
+.homeimage6 {
+  background-image: url('../Images/chair.jpg')!important;
+  height:225px;
+  width: 350px ;
+  left: 0px;
+  right: 0px;
+  
+  
+}

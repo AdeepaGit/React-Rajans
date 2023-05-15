@@ -1,0 +1,141 @@
+.hero {
+
+    /*background-image: linear-gradient(rgba(12,3,51,0.3),rgba(12,3,51,0.3)); */
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    
+    display: flex;
+    }
+    
+    .heroContent{
+        margin-top: -300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+       
+    }
+    
+    .row{
+        width: 100%;
+        text-align: center;
+    }
+    
+    .details{
+        margin-top: 300px;
+    }
+    
+    .tele-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+    
+    .tele{
+        font-size: 35px;
+        color: #0a3dab;
+        transition: all 0.2s ease-in-out;
+    }
+    
+    .mail-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+    
+    .mail{
+        font-size: 35px;
+        color: #0a3dab;
+        transition: all 0.2s ease-in-out;
+    
+    }
+    
+    .location-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+    
+    .location{
+        font-size: 35px;
+        color: #0a3dab;
+        transition: all 0.2s ease-in-out;
+    }
+    
+    .discription{
+        margin-top: 150px;
+    }
+    
+    span{
+        font-size: 40px;
+        padding-left: 40%;
+        font-weight:inherit;
+        text-align: center;
+    }
+    
+     .para{
+        text-align: center;
+        padding-top: 15px;
+        padding-left: 20%;
+        padding-right: 20%;
+        font-size: 18px;
+        color: rgba(0,0,0,0.5);
+     }
+    
+     .contact-para{
+        text-align: center;
+        font-size: 18px;
+        color: rgba(0,0,0,0.5);
+     }
+    
+     .number{
+        color:#0a3dab;
+        font-size: 18px;
+        text-align: center;
+        padding-left: 90px;
+        font-weight: bold;
+       
+     
+     }
+    
+     .email{
+        color:#0a3dab;
+        font-size: 18px;
+        text-align: center;
+        padding-left: 90px;
+        font-weight: bold;
+       
+     }
+    
+     .email-section{
+        margin-top: 150px;
+     }
+    
+     footer{
+        margin-top: 100px;
+        background-color:#0a3dab;
+        color: white;
+     }
+    
+    .copyright{
+        text-align: center;
+    }
+    .cards{
+        position: none !important;
+        display: flex !important;
+        align-items: center;
+        flex-direction: column ;
+        box-shadow: 5px 5px 10px 5px rgba(0,0,0,0.18);
+        background: rgba(255,255,255,0.05);
+        border-radius: 10px;
+        background-color: #ffffff;
+        width: 350px;
+        margin: 0 10px 0 10px;
+    }
